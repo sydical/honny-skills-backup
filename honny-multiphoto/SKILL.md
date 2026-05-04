@@ -121,6 +121,11 @@ python3 ~/.openclaw/skills/honny-multiphoto/scripts/multiphoto.py \
 📋 已记录到 List.md
 ```
 
+## 注意事项
+
+- 需要配置 RUNNINGHUB_API_KEY
+- 生成可能需要等待队列
+- EXIF 注入依赖 piexif 和 Pillow 库
 ---
 
 *基于 RunningHub 一致性多图工作流*
